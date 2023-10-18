@@ -1,4 +1,14 @@
 [
-  { "usuario": "usuario1", "contrasena": "contrasena1" },
-  { "usuario": "usuario2", "contrasena": "contrasena2" },
+  {
+      "id": 1,
+      "nombre": "Matias Tapia",
+      "username": "mat.tapias@duocuc.cl",
+      "password": "123456"      
+    },
+  {
+      "id": 1,
+      "nombre": "prueba",
+      "username": "prueba",
+      "password": "123456"      
+    }
 ]
