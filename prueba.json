@@ -1,1 +1,18 @@
 [{"id":1,"nombre":"Matias Tapia","usuario":"mat.tapias@duocuc.cl","contrasena":"123456"},{"id":2,"nombre":"prueba","usuario":"prueba","contrasena":"123456"}]
+[
+  {
+    "nombre": "Matías Tapia",
+    "usuario":"mat.tapias@duocuc.cl",
+    "contrasena":"123456"
+  },
+  {
+    "nombre":"prueba",
+    "usuario":"prueba",
+    "contrasena":"123456"
+  },
+  {
+    "nombre": "a",
+    "usuario": "a",
+    "contrasena": "1"
+  }
+]
